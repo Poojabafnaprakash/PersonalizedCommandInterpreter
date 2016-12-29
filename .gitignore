@@ -31,3 +31,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+#report
+*.docx
+*.png
+*.pdf
+
